@@ -1,0 +1,55 @@
+#menu{
+	width: 98%;
+	height: 2em;
+	background-color: black;
+	margin:0%;
+	padding: 1%;
+}
+a{
+	font-family: 'MV BOLI',cursive;
+	font-size: 0.9em;
+	color:gray;
+	padding-right:0.2em;
+	text-decoration:none;
+}
+#who:hover{
+	color:white;
+	font-size: 1em;
+}
+#down:visited{
+	color:lightgray;	
+}
+#down:hover{
+	color:white;
+	font-size: 1em;
+}
+#who:visited{
+	color:lightgray;
+}
+h1{
+	color: gray;
+	font-size: 2em;
+	text-align: center;
+}
+#present{
+	font-family: 'MV BOLI',cursive;
+	font-size: 1.2em;
+}
+#peq{
+	width: 2em;
+	height: 2em;
+	float: right;
+}
+#downarea{
+	margin: 5% 10% 1.5% 10%;
+	border-collapse: collapse;
+	text-align:center;
+	width: 75%;
+}
+td{
+	padding:0.4em;
+	border: 2px dotted gray;
+}
+body{
+	margin: 0%;
+}
